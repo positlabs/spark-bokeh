@@ -1,6 +1,6 @@
 ## Bokeh Particle Emitters in Spark AR
 
-Learn how to make a vignette and make it follow a face with the `FaceTracking` module!
+Learn how to make a bokeh particle system and some color stuff!
 
 [Tutorial on YouTube](https://www.youtube.com/watch?v=XTqMshFg6Rg)
 
